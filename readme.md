@@ -27,7 +27,7 @@ g++ -o normalizationSort main.cpp
 
 
 ## Example
-The `main` function in `main.cpp` demonstrates the use of the Normalization Sort algorithm with different data distributions. It includes timing the sorting process to measure performance.
+The `main` function in `normalizationSort.cpp` demonstrates the use of the Normalization Sort algorithm with different data distributions. It includes timing the sorting process to measure performance.
 
 ## Data Generation
 The program generates datasets of specified sizes using different distributions. Modify the parameters in the `main` function to test with different sizes and distribution characteristics.
